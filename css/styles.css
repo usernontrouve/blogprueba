@@ -30,7 +30,8 @@ body{
 #cabecera #logo{
     width: 20px;
     vertical-align: middle;
-#footer{
+}
+ #footer{
     background: #777;
     color: whitesmoke;
     text-align: center;
